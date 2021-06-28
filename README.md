@@ -10,6 +10,9 @@ Conway Defense System utilizes Conway's Game of Life, a cellular automata invent
 
 RIP to my boy John Conway. He kept it real in the streets.
 
+--github sucks ass heres the download links--
+https://drive.google.com/drive/folders/1jYWUNR0pKZ9D5CBGRij-k3lWcvF5Ojlq?usp=sharing
+
 # Installation
 - Download the folder corresponding to your operating system.
 - If on Windows, the executable must be run in its original directory.
