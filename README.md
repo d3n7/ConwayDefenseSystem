@@ -18,5 +18,5 @@ https://drive.google.com/drive/folders/1jYWUNR0pKZ9D5CBGRij-k3lWcvF5Ojlq?usp=sha
 - If on Windows, the executable must be run in its original directory.
 
 # For Nerds
-- The processing sketch is the folder titled "conwayDefense"
+- The Processing sketch is the folder titled "conwayDefense"
 - The only other library necessary is the "Sound" library by "The Processing Foundation," found via their navigation menus.
