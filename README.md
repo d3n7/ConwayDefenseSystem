@@ -8,9 +8,9 @@ Conway Defense System utilizes Conway's Game of Life, a cellular automata invent
 2. Every dead cell with exactly 3 neighbors gets born
 3. All other cells die or stay dead
 
-RIP to my boy John Conway. He kept it real in the streets.
+RIP John Conway
 
---github sucks ass heres the download links--
+--github storage limit so here's the download links--
 https://drive.google.com/drive/folders/1jYWUNR0pKZ9D5CBGRij-k3lWcvF5Ojlq?usp=sharing
 
 # Installation
